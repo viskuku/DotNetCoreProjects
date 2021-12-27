@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbFIjoqakmHhYYFrIJBn5cr+Veyk7K5Ol77yPf/9mTylLtuiWttS+lghkg+Ao2TtE75tOSjhIw/23KlhtumIkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashwa\\source\\repos\\PubSubPattern\\PubSubPattern\\PubSubPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashwa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

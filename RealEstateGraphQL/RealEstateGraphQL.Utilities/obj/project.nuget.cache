@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "girtnFINTIr0pHFHtlcfLRum1sXQqvp+6h6l383ABKEpGi9BTUMlSmsjOWhO3t8uJjMwq2nturu9YhpuiNjBYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashwa\\source\\repos\\RealEstateGraphQL\\RealEstateGraphQL.Utilities\\RealEstateGraphQL.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashwa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

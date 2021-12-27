@@ -1,0 +1,12 @@
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\bin\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.deps.json
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\bin\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.dll
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\bin\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.pdb
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.AssemblyInfo.cs
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.dll
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.pdb
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\bin\Debug\netcoreapp3.1\RealEstateGraphQL.Database.dll
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\bin\Debug\netcoreapp3.1\RealEstateGraphQL.Database.pdb
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.DataAccess\obj\Debug\netcoreapp3.1\RealEstateGraphQL.DataAccess.csproj.CopyComplete

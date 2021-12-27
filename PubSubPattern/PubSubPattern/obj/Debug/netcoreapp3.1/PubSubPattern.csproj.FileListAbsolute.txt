@@ -1,0 +1,13 @@
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.exe
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.deps.json
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.runtimeconfig.json
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.runtimeconfig.dev.json
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.dll
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\bin\Debug\netcoreapp3.1\PubSubPattern.pdb
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.csproj.AssemblyReference.cache
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.AssemblyInfoInputs.cache
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.AssemblyInfo.cs
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.dll
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.pdb
+C:\Users\Ashwa\source\repos\PubSubPattern\PubSubPattern\obj\Debug\netcoreapp3.1\PubSubPattern.genruntimeconfig.cache

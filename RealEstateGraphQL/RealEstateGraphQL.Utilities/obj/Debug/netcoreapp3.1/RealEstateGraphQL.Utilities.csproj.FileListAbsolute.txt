@@ -1,0 +1,9 @@
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\bin\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.deps.json
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\bin\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.dll
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\bin\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.pdb
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.AssemblyInfoInputs.cache
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.AssemblyInfo.cs
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.dll
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.pdb
+C:\Users\Ashwa\source\repos\RealEstateGraphQL\RealEstateGraphQL.Utilities\obj\Debug\netcoreapp3.1\RealEstateGraphQL.Utilities.csproj.AssemblyReference.cache
