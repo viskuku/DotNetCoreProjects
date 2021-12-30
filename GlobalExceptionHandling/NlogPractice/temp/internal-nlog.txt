@@ -1,0 +1,55 @@
+2021-12-30 15:33:46.0111 Info Message Template Auto Format enabled
+2021-12-30 15:33:46.0948 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-30 15:33:46.2470 Info Adding target FileTarget(Name=File)
+2021-12-30 15:33:46.2690 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2021-12-30 15:33:46.2797 Info Adding target DatabaseTarget(Name=NLogDB)
+2021-12-30 15:33:46.2797 Info Adding target FileTarget(Name=jsonFile)
+2021-12-30 15:33:46.3445 Info Validating config: TargetNames=jsonFile, File, consoleTarget, NLogDB, ConfigItems=92, FilePath=C:\GitHub\DotNetCoreProjects\GlobalExceptionHandling\NlogPractice\bin\Debug\netcoreapp3.1\NLog.config
+2021-12-30 15:33:47.1270 Error DatabaseTarget(Name=NLogDB): Error when writing to database. Exception: System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2021-12-30 15:37:19.1552 Info Message Template Auto Format enabled
+2021-12-30 15:37:19.1712 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-30 15:37:19.2450 Info Adding target FileTarget(Name=File)
+2021-12-30 15:37:19.2531 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2021-12-30 15:37:19.2636 Info Adding target DatabaseTarget(Name=NLogDB)
+2021-12-30 15:37:19.2636 Info Adding target FileTarget(Name=jsonFile)
+2021-12-30 15:37:19.3222 Info Validating config: TargetNames=jsonFile, File, consoleTarget, NLogDB, ConfigItems=92, FilePath=C:\GitHub\DotNetCoreProjects\GlobalExceptionHandling\NlogPractice\bin\Release\netcoreapp3.1\NLog.config
+2021-12-30 15:37:19.6543 Error DatabaseTarget(Name=NLogDB): Error when writing to database. Exception: System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
+2021-12-30 15:38:20.0379 Info AppDomain Shutting down. Logger closing...
+2021-12-30 15:40:27.8682 Info Message Template Auto Format enabled
+2021-12-30 15:40:27.8955 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-30 15:40:27.9896 Info Adding target FileTarget(Name=File)
+2021-12-30 15:40:27.9996 Info Adding target ColoredConsoleTarget(Name=consoleTarget)
+2021-12-30 15:40:27.9996 Info Adding target DatabaseTarget(Name=NLogDB)
+2021-12-30 15:40:28.0169 Info Adding target FileTarget(Name=jsonFile)
+2021-12-30 15:40:28.1040 Info Validating config: TargetNames=jsonFile, File, consoleTarget, NLogDB, ConfigItems=92, FilePath=C:\GitHub\DotNetCoreProjects\GlobalExceptionHandling\NlogPractice\bin\Debug\netcoreapp3.1\NLog.config
+2021-12-30 15:40:28.4944 Error DatabaseTarget(Name=NLogDB): Error when writing to database. Exception: System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at NLog.Targets.DatabaseTarget.OpenConnection(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.EnsureConnectionOpen(String connectionString, LogEventInfo logEventInfo)
+   at NLog.Targets.DatabaseTarget.WriteLogEventToDatabase(LogEventInfo logEvent, String connectionString)
