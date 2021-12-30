@@ -32,14 +32,18 @@ Trace	For trace debugging; begin method X, end method X
 
 The SetScoped method returns an IDisposable that removes the added item when disposed. It can be used in conjunction with the using statement to limit the scope during which the item will be present in the Http Context.
 
-using (MappedDiagnosticsLogicalContext.SetScoped("Property", "PropertyValue")) {
+      using (MappedDiagnosticsLogicalContext.SetScoped("Property", "PropertyValue")) {
     // "Property" item is present in current context
-}
-// "Property" item has been removed from current context
+} // "Property" item has been removed from current context
+
+
 
 
 ## Reference 
 https://blog.elmah.io/nlog-tutorial-the-essential-guide-for-logging-from-csharp/
+
 https://github.com/NLog/NLog/wiki/Mdlc-Layout-Renderer
+
 https://nlog-project.org/config/?tab=layout-renderers&search=event
+
 https://www.youtube.com/watch?v=hvbKB5wpLOc
